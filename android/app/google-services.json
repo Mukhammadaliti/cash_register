@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "803686834915",
+    "firebase_url": "https://cash-register-482b4-default-rtdb.firebaseio.com",
+    "project_id": "cash-register-482b4",
+    "storage_bucket": "cash-register-482b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803686834915:android:1010024fa43e804ade5bd6",
+        "android_client_info": {
+          "package_name": "com.example.cash_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803686834915-7v6351q8dve9fstue7ruhf6f53q31095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2MsBVgDstsebNLMxNq_wtBMjI8HwijU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803686834915-7v6351q8dve9fstue7ruhf6f53q31095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803686834915:android:8054ba39e4dbf086de5bd6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803686834915-7v6351q8dve9fstue7ruhf6f53q31095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2MsBVgDstsebNLMxNq_wtBMjI8HwijU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803686834915-7v6351q8dve9fstue7ruhf6f53q31095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
